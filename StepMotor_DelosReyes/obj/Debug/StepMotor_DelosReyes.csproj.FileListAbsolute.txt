@@ -1,0 +1,11 @@
+C:\Users\Ricodere\Desktop\Git Repo\EMBESYS\StepMotor_DelosReyes\bin\Debug\StepMotor_DelosReyes.exe.config
+C:\Users\Ricodere\Desktop\Git Repo\EMBESYS\StepMotor_DelosReyes\bin\Debug\StepMotor_DelosReyes.exe
+C:\Users\Ricodere\Desktop\Git Repo\EMBESYS\StepMotor_DelosReyes\bin\Debug\StepMotor_DelosReyes.pdb
+C:\Users\Ricodere\Desktop\Git Repo\EMBESYS\StepMotor_DelosReyes\obj\Debug\StepMotor_DelosReyes.csproj.AssemblyReference.cache
+C:\Users\Ricodere\Desktop\Git Repo\EMBESYS\StepMotor_DelosReyes\obj\Debug\StepMotor_DelosReyes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricodere\Desktop\Git Repo\EMBESYS\StepMotor_DelosReyes\obj\Debug\StepMotor_DelosReyes.Properties.Resources.resources
+C:\Users\Ricodere\Desktop\Git Repo\EMBESYS\StepMotor_DelosReyes\obj\Debug\StepMotor_DelosReyes.csproj.GenerateResource.cache
+C:\Users\Ricodere\Desktop\Git Repo\EMBESYS\StepMotor_DelosReyes\obj\Debug\StepMotor_DelosReyes.csproj.CoreCompileInputs.cache
+C:\Users\Ricodere\Desktop\Git Repo\EMBESYS\StepMotor_DelosReyes\obj\Debug\StepMotor_DelosReyes.exe
+C:\Users\Ricodere\Desktop\Git Repo\EMBESYS\StepMotor_DelosReyes\obj\Debug\StepMotor_DelosReyes.pdb
+C:\Users\Ricodere\Desktop\Git Repo\EMBESYS\StepMotor_DelosReyes\obj\Debug\StepMotor_DelosReyes.Main.resources
